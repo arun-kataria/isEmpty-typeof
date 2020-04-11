@@ -1,0 +1,47 @@
+{
+  "name": "isempty-typeof",
+  "version": "1.0.0",
+  "description": "To check the data is empty or not. And also check the type of object wheater Array, Object, Function, Number, String or Boolean",
+  "main": "index.js",
+  "author": {
+    "name": "Arun kataria",
+    "email": "sdarunkataria@gmail.com",
+    "url": "https://github.com/arun-kataria/image-file-resize/"
+  },
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "node.js",
+    "react.js",
+    "angular.js",
+    "vue.js",
+    "array",
+    "boolean",
+    "check",
+    "deep",
+    "empty",
+    "function",
+    "has",
+    "hasOwn",
+    "is-empty",
+    "nested",
+    "null",
+    "number",
+    "object",
+    "object path",
+    "properties",
+    "property",
+    "string",
+    "type",
+    "value",
+    "typeOf"
+  ],
+  "related": {
+    "list": [
+      "define-property",
+      "get-value",
+      "set-value",
+      "unset-value"
+    ]
+  }
+}
