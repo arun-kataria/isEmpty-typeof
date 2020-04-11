@@ -27,7 +27,7 @@ const check = require('isempty-typeof');
     checks.isEmpty(0); // true
     checks.isEmpty(0,true); // false
 
-    // To check the data type.
+    // To check the typeOf.
     checks.strictTypeOf([]); //Array
     checks.strictTypeOf([1,2]); //Array
     checks.strictTypeOf({}); //Object
